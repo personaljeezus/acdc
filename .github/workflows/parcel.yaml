@@ -1,4 +1,4 @@
-name: golang-pipeline
+name: parcel
 on: push
 jobs:
   test:
